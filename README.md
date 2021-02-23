@@ -1,5 +1,6 @@
 Bussycoin integration/staging tree
 ================================
+Based on litecoin, developed by an idiot for idiots. 
 
 http://crypto.thevault.gg
 
@@ -30,6 +31,8 @@ Development process
 -------------------
 
 What development process? We out here winging this shit bois
+
+This shit generated so many errors and warnings while complining so thats cool.
 
 Testing
 -------
