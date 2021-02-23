@@ -2,7 +2,8 @@ Bussycoin integration/staging tree
 ================================
 Based on litecoin, developed by an idiot for idiots. 
 
-http://crypto.thevault.gg
+http://crypto.thevault.gg (Yeah I know the site isn't up, I'm not that proactive)
+
 
 What is Bussycoin?
 ----------------
