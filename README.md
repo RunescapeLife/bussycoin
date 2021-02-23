@@ -6,7 +6,7 @@ http://crypto.thevault.gg
 
 What is Bussycoin?
 ----------------
-![alt text](https://i.imgur.com/SG9v6nU.png)
+![alt text](https://i.imgur.com/S8KUdYi.png)
 
 Bussycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 6.9 minute block targets
