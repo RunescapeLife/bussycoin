@@ -7,9 +7,11 @@ http://crypto.thevault.gg (Yeah I know the site isn't up, I'm not that proactive
 
 What is Bussycoin?
 ----------------
-![alt text](https://i.imgur.com/y7dmSwC.png)![alt text](https://i.imgur.com/8OXEZ0O.png)
+![alt text](https://i.imgur.com/6gzlETu.png)![alt text](https://i.imgur.com/8OXEZ0O.png)
 
+Shown are the two sides of the coin, Mr. B and that one meme cat wearing a gnome child hat.
 *Final coin pending approval for Mr B. usage*
+*Final coin also waiting on an artist to redisgn the gnome cat*
 
 Bussycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 6.9 minute block targets
