@@ -32,7 +32,7 @@ Bussycoin goals for the future.
 Other useless information about the coin.
  - shits made in c++ yo
  - literally copied from litecoin pending some changes to the source code
- - no I don't know c++... I'm a Infrastructure engineer that works with cloud and python get of my back
+ - no I don't know c++... I'm a Infrastructure engineer that works with cloud and python git off my back
  - yes my art skills are lacking
  - more useless than dogecoin
 
