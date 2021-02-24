@@ -68,7 +68,7 @@ Bussycoin was created by a idiotic twitch chatter after discussing the concept o
  - Haven't thought this far out
 
 **Winter 2021:**
- - Have atleast 1 stable build? Maybe? No? Ok...
+ - Have at least 1 stable build? Maybe? No? Ok...
 
 **2022:**
  - Dead currency m8
