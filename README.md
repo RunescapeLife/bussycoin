@@ -16,59 +16,57 @@ Shown are the two sides of the coin, Mr. B and that one meme cat wearing a gnome
 
 Coin might also be redisgned by a professional if I feel like it
 
-Bussycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+**Bussycoin is a lite version litecoin which is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.**
  - 6.9 minute block targets
  - subsidy halves in 69,000 blocks (God knows when and if Bussy will ever hit this)
  - ~69,696,969 million total coins (KEKW)
-
-The rest is the same as Bitcoin.
  - 69 coins per block
  - who knows how many blocks ¯\_(ツ)_/¯  to retarget difficulty
 
 Bussycoin was created by a idiotic twitch chatter after discussing the concept of bussycoin with 2 other chat members (danmoyer and vexcellent) during a Super Mario 3D World + Bowser's Fury stream hosted by TheGameDame (https://www.twitch.tv/thegamedame). Bussycoin is developed and maintained by Runescape Life. This currency is a meme and is more or less designed for people to have fun while exploring blockchain and crypto with little to no risk (at the moment, and this is not finnacial advice. I'm not a financial advisor losers).
 
-Bussycoin goals for the future.
+**Bussycoin goals for the future.**
  - Update wallet UI and release windows binaries
  - Get some hardening done yo
  - Get some nodes in the cloud homies
  - Find a coin exchange that will accept us
 
 
-Other useless information about the coin.
+**Other useless information about the coin.**
  - shits made in c++ yo
  - literally copied from litecoin pending some changes to the source code
  - no I don't know c++... I'm a Infrastructure engineer that works with cloud and python git off my back
  - yes my art skills are lacking
  - more useless than dogecoin
 
-For more information, as well as any future software please visit http://crypto.thevault.gg
+**For more information, as well as any future software please visit http://crypto.thevault.gg**
 
 2021 & Beyond Roadmap
 -------
-Feburary 2021:
+**Feburary 2021:**
  - Release binaries and landing page for http://crypto.thevault.gg
  - Branding 
  - First wave of testers
  - Learn C++ I guess
 
-Spring 2021:
+**Spring 2021:**
  - Block explorer
  - Mining pool
  - Deploy the first two nodes
  - More rats for testing
  - Continuous integration
 
-Summer 2021:
+**Summer 2021:**
  - Start allowing pull request from people who are unqualified like myself
  - Do something useful
 
-Fall 2021:
+**Fall 2021:**
  - Haven't thought this far out
 
-Winter 2021:
+**Winter 2021:**
  - Have atleast 1 stable build? Maybe? No? Ok...
 
-2022:
+**2022:**
  - Dead currency m8
 
 
