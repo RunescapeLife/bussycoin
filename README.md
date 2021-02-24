@@ -22,6 +22,13 @@ The rest is the same as Bitcoin.
 
 Bussycoin was created by a idiotic twitch chatter after discussing the concept of bussycoin with 2 other chat members (danmoyer and vexcellent) during a Super Mario 3D World + Bowser's Fury stream hosted by TheGameDame (https://www.twitch.tv/thegamedame). Bussycoin is developed and maintained by Runescape Life. This currency is a meme and is more or less designed for people to have fun while exploring blockchain and crypto with little to no risk (at the moment, and this is not finnacial advice. I'm not a financial advisor losers).
 
+Bussycoin goals for the future.
+ - Update wallet UI and release windows binaries
+ - Get some hardening done yo
+ - Get some nodes in the cloud homies
+ - Find a coin exchange that will accept us
+
+
 Other useless information about the coin.
  - shits made in c++ yo
  - literally copied from litecoin pending some changes to the source code
