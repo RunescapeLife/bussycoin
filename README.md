@@ -7,7 +7,7 @@ http://crypto.thevault.gg (Yeah I know the site isn't up, I'm not that proactive
 
 What is Bussycoin?
 ----------------
-![alt text](https://i.imgur.com/S8KUdYi.png)
+![alt text](https://i.imgur.com/8OXEZ0O.png)
 
 *Final coin pending approval for Mr B. usage*
 
