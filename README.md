@@ -14,7 +14,7 @@ What is Bussycoin?
 
 Shown are the two sides of the coin, Mr. B and that one meme cat wearing a gnome child hat.
 
-*Final coin pending approval for Mr B. usage*
+*Mr.B usage approved Pog*
 
 *Final coin also waiting on an artist to redisgn the gnome cat*
 
