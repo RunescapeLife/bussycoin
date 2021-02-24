@@ -10,8 +10,11 @@ What is Bussycoin?
 ![alt text](https://i.imgur.com/6gzlETu.png)![alt text](https://i.imgur.com/8OXEZ0O.png)
 
 Shown are the two sides of the coin, Mr. B and that one meme cat wearing a gnome child hat.
+
 *Final coin pending approval for Mr B. usage*
 *Final coin also waiting on an artist to redisgn the gnome cat*
+
+Coin might also be redisgned by a professional if I feel like it
 
 Bussycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 6.9 minute block targets
