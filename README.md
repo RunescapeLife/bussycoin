@@ -4,6 +4,9 @@ Based on litecoin, developed by an idiot for idiots.
 
 http://crypto.thevault.gg (Yeah I know the site isn't up, I'm not that proactive)
 
+Status
+------
+*Offline* 
 
 What is Bussycoin?
 ----------------
