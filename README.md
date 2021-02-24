@@ -33,7 +33,7 @@ Bussycoin was created by a idiotic twitch chatter after discussing the concept o
  - Update wallet UI and release windows binaries
  - Get some hardening done yo
  - Get some nodes in the cloud homies
- - Find a coin exchange that will accept us
+ - Find a coin exchange that will accept us for the person we are
 
 
 **Other useless information about the coin.**
